@@ -42,7 +42,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: var(--first-color);
     color: var(--text-color);
-    margin: 50px 20px;
+    padding: 50px 20px;
 }
 h1,h2,h3{
     color: var(--title-color);
